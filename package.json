@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "connect-busboy": "^1.0.0",
+    "cors": "^2.8.5",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "node-fetch2": "^1.6.3",
+    "split-file": "^2.3.0"
+  }
+}
